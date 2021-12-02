@@ -13,18 +13,19 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 
-👤 **Kossi-Stack**
 
-- GitHub: [Kossi-Stack](https://github.com/Kossi-stack)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [Kossi-Stack](https://linkedin.com/in/kossi-stack)
+👤 **Busiwa24**
+
+-GitHub: (https://github.com/Busiwa24) 
+-Twitter: (https://twitter.com/busiwaliuma) 
+-LinkedIn: (https://www.linkedin.com/in/busiwa-liuma-)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Kossi-stack/Vet-Clinic-Database/issues).
+Feel free to check the [issues page] https://github.com/Busiwa24/Vet-Clinic-Database.git
 
 ## Show your support
 
