@@ -12,5 +12,3 @@ CREATE TABLE animals(
 );
 ALTER TABLE animals 
   Add species TEXT;
-
-
