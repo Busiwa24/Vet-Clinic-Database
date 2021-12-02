@@ -12,6 +12,6 @@ SELECT name, escape_attempts FROM animals WHERE weight_kg>10.5;
 
 SELECT name FROM animals WHERE neutered IS TRUE;
 
-SELECT name FROM animals WHERE name NOT IN ('Gabumon');
+SELECT name FROM animals WHERE name NOT IN ('Gabumon');0
 
 SELECT name FROM animals WHERE weight_kg BETWEEN 10.4 AND 17.3;
