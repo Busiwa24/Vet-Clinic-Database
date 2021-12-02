@@ -37,3 +37,6 @@ ALTER TABLE animals ADD COLUMN owner_id INT,
   ADD CONSTRAINT fk_owners
   FOREIGN KEY (owner_id)
   REFERENCES owners (id);
+
+
+  
